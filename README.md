@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @aarya-12
-- 👀 I’m interested in ethical hacking
 - 🌱 I’m currently learning computer science
 - 📫 How to reach me aaryamujumdar@gmail.com
 
